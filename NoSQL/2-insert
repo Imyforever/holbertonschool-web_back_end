@@ -1,0 +1,2 @@
+// insert data
+mongo.school.name("Holberton school")
