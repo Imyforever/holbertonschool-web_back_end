@@ -1,2 +1,2 @@
 // insert data
-mongo.school.name("Holberton school")
+db.school.insertOne({ name: "Holberton school" })
