@@ -1,2 +1,2 @@
 // find one
-db.posts.find( {name: "Holberton school"} )
+db.school.find( {name: "Holberton school"} )
